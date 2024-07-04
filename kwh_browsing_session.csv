@@ -1,0 +1,21 @@
+Website;Link;front_page_load_MB;data_transfer_MB;kWh;monthly_visits_mil
+;;;;;
+Amazon;https://www.amazon.nl/;3.3;35.3;0.005295;8
+Zalando;https://www.zalando.nl/;2.2;16.3;0.002445;3.9
+IKEA;https://www.ikea.com/nl/nl/;16.7;30.1;0.004515;7.5
+Bol.com;https://www.bol.com/nl/nl/;2.9;7.9;0.001185;14.8
+Coolblue;https://www.coolblue.nl/;8.2;15.7;0.002355;2.6
+NU.nl;nu.nl;3.8;17.7;0.002655;10.5
+Algemeen Dagblad;ad.nl;8.8;27.3;0.004095;11.3
+De Telegraaf;telegraaf.nl;7.3;82.9;0.012435;7.6
+De Volkskrant;volkskrant.nl;7.2;28.6;0.00429;1.8
+RTL Nieuws;https://www.rtl.nl/?redirect=rtlnieuws;7.5;52.4;0.00786;3.6
+University of Amsterdam;https://www.uva.nl;2.2;53.9;0.008085;0.49
+Delft University of Technology (TU Delft);https://www.tudelft.nl/;2;7.7;0.001155;0.35
+University of Groningen;https://www.rug.nl/;6.1;16.8;0.00252;0.36
+Utrecht University;https://www.uu.nl/;0.8;7.7;0.001155;0.64
+Erasmus University Rotterdam;https://www.eur.nl/;1.4;6.5;0.000975;0.29
+Google Chrome;https://www.google.nl/;1.3;20.7;0.003105;18.6
+Microsoft Bing;https://www.bing.com/;8.1;18.7;0.002805;0.42
+Yahoo;https://consent.yahoo.com/;11.6;14.2;0.00213;1.5
+DuckDuckGo;https://duckduckgo.com/;2.5;5.7;0.000855;0.25
